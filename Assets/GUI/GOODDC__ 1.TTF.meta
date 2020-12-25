@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b078d737a1a529a4b85d3815cea2bfdf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GoodDog Cool
+  fontNames:
+  - GoodDog Cool
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ac0234c02763aad46a4db9dcf758b1d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
