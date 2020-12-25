@@ -3,10 +3,10 @@
  
  # Learning Outcomes
  
- => Object Pooling Design Pattern
- => Exploring Mixamo's Animations and using them in your own project
- => Using PlayerPrefs to store player's data even when scene changes.
- => Unity's UI 
+ * Object Pooling Design Pattern
+ * Exploring Mixamo's Animations and using them in your own project
+ * Using PlayerPrefs to store player's data even when scene changes.
+ * Unity's UI 
 
 # How to use it 
 
